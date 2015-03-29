@@ -1,5 +1,5 @@
 # SongMaker
-Tt makes song files for our arduino piano teacher.
+It makes song files for our arduino piano teacher.
 
 SongMaker was written over a 21-hour period in late March 2015, during the second annual "MakeBU" hackathon.
 
