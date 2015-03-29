@@ -23,6 +23,8 @@ If a chord:
 If a note:
 * unsigned byte `code` the MIDI key code
 * unsigned short `len` length of the note in ms
-  
+
+##Screenshot
+<img src="https://raw.githubusercontent.com/maxton/SongMaker/master/screenshot.png"/>
   
 
